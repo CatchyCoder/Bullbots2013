@@ -221,4 +221,6 @@ pip-log.txt
 ## CLAYS CUSTOM
 ################
 
-*.nbproject
+*.xml
+*.bak.xml
+
