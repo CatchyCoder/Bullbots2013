@@ -213,14 +213,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-
-
-
-################
-## CLAYS CUSTOM
-################
-
-*.xml
-*.bak.xml
-
